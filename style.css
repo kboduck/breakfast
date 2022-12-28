@@ -90,6 +90,7 @@ div.block2{
     height: 876px;
 }
 div.block2 img.img8{
+    position: absolute;
     margin-top: 62px;
     margin-left: 320px;
     width: 846px;
@@ -102,7 +103,84 @@ div.block2 span{
     font-size: 60px;
     width: auto;
     color: #ffffff;
+    z-index: 12;
 }
+div.block2 img.img9{
+    position: absolute;
+    margin-left: 95px;
+    margin-top: 55px;
+    width: 101px;
+}
+div.block2 img.img10{
+    position: absolute;
+    margin-left: 1274px;
+    margin-top: 48px;
+    width: 142px;
+}
+div.block2 img.img11{
+    position: absolute;
+    margin-left: 70px;
+    margin-top: 792px;
+    width: 134px;
+}
+div.block2a{
+    position: absolute;
+    background-color: rgba(247, 133, 47, .7);
+    margin-top: 192px;
+    margin-left: 105px;
+    border: none;
+    border-radius: 20px;
+    width: 1245px;
+    height: 525px;
+}
+div.block2a span{
+    font-family: 'Lato', sans-serif;
+    margin-left: 240px; 
+    margin-top: 192px; 
+    font-size: 40px;
+    width: auto; 
+}
+div.block2a span h2{
+    font-size: 80px;
+    width: auto;
+}
+div.block2a span p{
+    padding-left: 20px;
+    width: auto;
+}
+div.block2a span.label{
+    margin-left: 450px;
+}
+div.block2a span.label1{
+    margin-left: 670px;
+}
+div.block2a span.label2{
+    margin-left: 885px;
+}
+div.block2a span.line{ 
+    position: absolute;
+    margin-left: 175px;
+    margin-top: 230px;
+    border-color: #ffffff;
+    border: solid;
+    border-left: 2px;
+    border-radius: 2px;
+    height: 30px;
+}
+div.block2a span.line#line1{
+margin-left: 390px;
+}
+div.block2a span.line#line2{
+    margin-left: 610px;
+}
+div.block2a span.line#line3{
+    margin-left: 825px;
+}
+div.block2a span.line#line4{
+    margin-left: 1045px;
+}
+
+
 div.footer{
     background-color: #85a333;
     color: #ffffff;
