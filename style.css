@@ -103,3 +103,8 @@ div.block2 span{
     width: auto;
     color: #ffffff;
 }
+div.footer{
+    background-color: #85a333;
+    color: #ffffff;
+    height: 325px;
+}
