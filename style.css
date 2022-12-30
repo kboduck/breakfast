@@ -133,28 +133,30 @@ div.block2a{
     width: 1245px;
     height: 525px;
 }
-div.block2a span{
+div.block2a div{
+    position: absolute;
     font-family: 'Lato', sans-serif;
+    color: #ffffff;
     margin-left: 240px; 
     margin-top: 192px; 
     font-size: 40px;
     width: auto; 
 }
-div.block2a span h2{
+div.block2a div h2{
     font-size: 80px;
     width: auto;
 }
-div.block2a span p{
+div.block2a div p{
     padding-left: 20px;
     width: auto;
 }
-div.block2a span.label{
+div.block2a div.label1{
     margin-left: 450px;
 }
-div.block2a span.label1{
+div.block2a div.label2{
     margin-left: 670px;
 }
-div.block2a span.label2{
+div.block2a div.label3{
     margin-left: 885px;
 }
 div.block2a span.line{ 
@@ -179,7 +181,83 @@ div.block2a span.line#line3{
 div.block2a span.line#line4{
     margin-left: 1045px;
 }
-
+div.block3{
+    background-color: #85a333;
+    margin-top: 65px;
+    height: 825px;
+    color: #ffffff;
+}
+div.block3 img.img12{
+    position: absolute;
+    margin-left: 35px;
+    margin-top: 40px;
+    width: 131px;
+}
+div.block3 img.img13{
+    position: absolute;
+    margin-top: 55px;
+    margin-left: 1195px;
+    width: 83px;    
+}
+div.block3 img.img14{
+    position: absolute;
+    margin-top: 670px;
+    margin-left: 5px;
+    width: 101px;    
+}
+div.block3 img.img15{
+    position: absolute;
+    margin-top: 705px;
+    margin-left: 620px;
+    width: 113px;    
+}
+div.block3 img.img16{
+    position: absolute;
+    margin-top: 682px;
+    margin-left: 1335px;
+    width: 101px;    
+}
+div.block3 img.img17{
+    position: absolute;
+    margin-top: 43px;
+    margin-left: 592px;
+    width: 262px;    
+}
+div.block3 h2{
+    position: absolute;
+    font-family: 'Amatic SC', cursive;
+    font-size: 60px;
+    width: auto;
+    margin-left: 650px;
+    padding-top: 42px;
+    color: #85a333;
+}
+div.block3 span{
+    position: absolute;
+    font-size: 35px;
+    text-transform: uppercase;
+    margin-left: 560px;
+    margin-top: 132px;
+    width: auto;
+}
+div.block3 img.img18{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 180px;
+    width: 339px;    
+}
+div.block3 img.img19{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 553px;
+    width: 339px;    
+}
+div.block3 img.img20{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 925px;
+    width: 339px;    
+}
 
 div.footer{
     background-color: #85a333;
