@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Lato:wght@400;700&display=swap');
 *{
     width: 1440px;
     margin: auto;
@@ -236,7 +236,7 @@ div.block3 span{
     position: absolute;
     font-size: 35px;
     text-transform: uppercase;
-    margin-left: 560px;
+    margin-left: 580px;
     margin-top: 132px;
     width: auto;
 }
@@ -257,6 +257,75 @@ div.block3 img.img20{
     margin-top: 200px;
     margin-left: 925px;
     width: 339px;    
+}
+div.block3a{
+    position: absolute;
+    background-color: #e7e7e7;
+    width: 339px;
+    height: 197px;
+    margin-left: 180px;
+    margin-top: 500px;
+}
+div.block3b{
+    position: absolute;
+    background-color: #e7e7e7;
+    width: 339px;
+    height: 197px;
+    margin-left: 553px;
+    margin-top: 500px;
+}
+div.block3c{
+    position: absolute;
+    background-color: #e7e7e7;
+    width: 339px;
+    height: 197px;
+    margin-left: 925px;
+    margin-top: 500px;
+}
+div.block3 div h2{
+    font-family: 'Lato', sans-serif;
+    color: #4f4e4e;
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 21px;
+    padding-top: 0;
+}
+div.block3 div h3{
+    font-family: 'Lato', sans-serif;
+    color: #4f4e4e;
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 60px;
+}
+div.block3 div p{
+    font-family: 'Lato', sans-serif;
+    color: #4f4e4e;
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: 12px;
+}
+div.block3 div button{
+    font-family: 'Lato', sans-serif;
+    display: flex;
+    align-items: flex-start;
+    padding-left: 0;
+    background-color: #e7e7e7;
+    color: #4f4e4e;
+    margin-left: 20px;
+    font-weight: 700;
+    width: 100px;
+    margin-top: 25px;
+    border: solid 7px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: #668c00;
+    font-size: 13px;
+    text-transform: uppercase;
+
 }
 
 div.footer{
