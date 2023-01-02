@@ -290,6 +290,7 @@ div.block3 div h2{
     font-weight: 700;
     margin-top: 21px;
     padding-top: 0;
+    width: auto;
 }
 div.block3 div h3{
     font-family: 'Lato', sans-serif;
@@ -298,6 +299,7 @@ div.block3 div h3{
     font-size: 16px;
     font-weight: 700;
     margin-top: 60px;
+    width: auto;
 }
 div.block3 div p{
     font-family: 'Lato', sans-serif;
@@ -306,6 +308,7 @@ div.block3 div p{
     font-size: 16px;
     font-weight: normal;
     margin-top: 12px;
+    width: auto;
 }
 div.block3 div button{
     font-family: 'Lato', sans-serif;
@@ -379,6 +382,7 @@ div.block4 h2{
     font-family: 'Amatic SC', cursive;
     font-weight: 700;
     font-size: 50px;
+    width: auto;
     margin-left: 112px;
     margin-top: 202px;
 }
@@ -416,6 +420,7 @@ div.block5 div h2{
     font-family: 'Amatic SC', cursive;
     font-size: 40px;
     margin-top: 32px;
+    width: auto;
 }
 div.block5 div p{
     margin-left: 0;
@@ -442,6 +447,7 @@ div.block6 h2{
     position: absolute;
     font-family: 'Amatic SC', cursive;
     color: #85a333;
+    width: auto;
     font-size: 60px;
     margin-left: 645px;
     margin-top: 24px;
@@ -450,6 +456,7 @@ div.block6 h3{
     position: absolute;
     color: #ffffff;
     font-size: 40px;
+    width: auto;
     text-transform: uppercase;
     margin-left: 560px;
     margin-top: 115px;
@@ -528,7 +535,65 @@ div.block7{
     background-image: url(images/img30.png);
     background-repeat: no-repeat;
 }
-
+div.block7 img{
+    position: absolute;
+}
+div.block7 img.img34{
+    width: 131px;
+    margin-left: 615px;
+    margin-top: 65px;
+}
+div.block7 img.img35{
+    width: 107px;
+    margin-left: 505px;
+    margin-top: 465px;
+}
+div.block7 img.img36{
+    width: 127px;
+    margin-left: 557px;
+    margin-top: 724px;
+}
+div.block7 img.img37{
+    width: 329px;
+    margin-left: 812px;
+    margin-top: 100px;
+}
+div.block7 h2{
+    position: absolute;
+    font-family: 'Amatic SC', cursive;
+    color: #ffffff;
+    width: auto;
+    font-size: 65px;
+    margin-left: 875px;
+    margin-top: 102px;
+}
+div.block7 div{
+    color:#85a333;
+    width: 455px;
+    margin-left: 810px;
+    padding-top: 65px;
+}
+div.block7 div h3{
+    font-size: 30px;
+    color: #db7f38;
+    width: auto;
+}
+div.block7 div p{
+    width: auto;
+}
+div.block7 div.block7a{
+    padding-top: 270px;
+}
+div.block7 div span{
+    position: absolute;
+    padding-left: 400px;
+    margin-top: -55px;
+    font-size: 35px;
+    width: auto;
+}
+div.block7 div p{
+    font-size: 22px;
+}
 
 div.footer{
     background-color: #85a333;
