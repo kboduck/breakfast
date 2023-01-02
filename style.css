@@ -327,6 +327,69 @@ div.block3 div button{
     text-transform: uppercase;
 
 }
+div.block4{
+    background-color: #ffffff;
+    height: 600px;
+}
+div.block4 img.img21{
+    position: absolute;
+    margin-left: 970px;
+    margin-top: 90px;
+    width: 450px;
+}
+div.block4 img.img22{
+    position: absolute;
+    margin-left: 35px;
+    margin-top: 25px;
+    width: 131px;
+}
+div.block4 img.img23{
+    position: absolute;
+    margin-left: 590px;
+    margin-top: 150px;
+    width: 134px;
+}
+div.block4 img.img24{
+    position: absolute;
+    margin-left: 946px;
+    margin-top: 23px;
+    width: 83px;
+}
+div.block4 img.img25{
+    position: absolute;
+    margin-left: 38px;
+    margin-top: 450px;
+    width: 127px;
+}
+div.block4 img.img26{
+    position: absolute;
+    margin-left: 515px;
+    margin-top: 395px;
+    width: 101px;
+}
+div.block4 img.img27{
+    position: absolute;
+    margin-left: 930px;
+    margin-top: 485px;
+    width: 101px;
+}
+div.block4 h2{
+    position: absolute;
+    color: #85a333;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    font-size: 50px;
+    margin-left: 112px;
+    margin-top: 202px;
+}
+div.block4 p{
+    position: absolute;
+    color: #db7f38;
+    margin-left: 112px;
+    margin-top: 285px;
+    font-size: 25px;
+    width: 710px;
+}
 
 div.footer{
     background-color: #85a333;
