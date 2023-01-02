@@ -390,6 +390,49 @@ div.block4 p{
     font-size: 25px;
     width: 710px;
 }
+div.block5{
+    height: 380px;
+    background-color: #85a333;
+}
+div.block5 img.img28{
+    position: absolute;
+    width: 83px;
+    margin-left: 31px;
+    margin-top: 135px;
+}
+div.block5 img.img29{
+    position: absolute;
+    width: 142px;
+    margin-left: 1263px;
+    margin-top: 141px;
+}
+div.block5 div{
+    position: absolute;
+    color: #ffffff;
+    width: 300px;
+    padding-top: 84px;
+}
+div.block5 div h2{
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+    margin-top: 32px;
+}
+div.block5 div p{
+    margin-left: 0;
+    width: 272px;
+}
+div.block5 div img{
+    width: 25px;
+}
+div.block5 div.block5a{
+    margin-left: 178px;
+}
+div.block5 div.block5b{
+    margin-left: 576px;
+}
+div.block5 div.block5c{
+    margin-left: 965px;
+}
 
 div.footer{
     background-color: #85a333;
