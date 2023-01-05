@@ -764,6 +764,84 @@ div.block9a div.block9a_6{
     margin-top: 591px;
     margin-left: 810px;
 }
+div.block10{
+    background-color: #85a333;
+    color: #ffffff;
+    height: 450px;
+}
+div.block10 img{
+    position: absolute;
+}
+div.block10 img.img50{
+    width: 83px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+div.block10 img.img51{
+    width: 142px;
+    margin-left: 1250px;
+    margin-top: 20px;
+}
+div.block10 img.img52{
+    width: 134px;
+    margin-left: 395px;
+    margin-top: 320px;
+}
+div.block10 img.img53{
+    width: 101px;
+    margin-left: 915px;
+    margin-top: 290px;
+}
+div.block10 img.img54{
+    width: 238px;
+    height: 78px;
+    margin-left: 605px;
+    margin-top: 30px;
+}
+div.block10 h2{
+    position: absolute;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    color: #85a333;
+    font-size: 55px;
+    margin-left: 648px;
+    margin-top: 37px;
+    width: auto;
+}
+input::placeholder {
+    color: #ffffff;
+}
+div.block10 span{
+    position: absolute;
+    color: #ffffff;
+    font-size: 20px;
+}
+div.block10 span.label1{
+    position: absolute;
+    margin-top: 135px;
+    margin-left: 100px;
+}
+div.block10 input{
+    position: absolute;
+    width: 240px;
+    color: #ffffff;
+    border: solid 1px;
+    border-color: #ffffff;
+    background-color: #85a333;
+    border-radius: 5px;
+}
+div.block10 input.how_many{
+    margin-left: 100px;
+    margin-top: 165px;
+}
+div.block10 span.label2{
+    margin-top: 230px;
+    margin-left: 100px;
+}
+div.block10 input.name{
+    margin-left: 100px;
+    margin-top: 265px;
+}
 
 div.footer{
     background-color: #85a333;
