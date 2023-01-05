@@ -640,6 +640,130 @@ div.block9{
     height: 1155px;
     background-color: #ffffff;
 }
+div.block9 img{
+    position: absolute;
+}
+div.block9 img.img41{
+    width: 131px;
+    margin-left: 25px;
+    margin-top: 30px;
+}
+div.block9 img.img42{
+    width: 107px;
+    margin-left: 2px;
+    margin-top: 738px;
+    transform: rotate(70deg);
+}
+div.block9 img.img43{
+    width: 127px;
+    margin-left: 1318px;
+    margin-top: 300px;
+}
+div.block9 img.img44{
+    width: 83px;
+    margin-left: 1360px;
+    margin-top: 1015px;
+}
+div.block9a{
+    position: absolute;
+    margin-left: 180px;
+    background-color: #db7f38;
+    width: 1080px;
+    height: 1030px;
+    margin-top: 60px;
+    color: #ffffff;
+}
+div.block9a h2{
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700; 
+    font-size: 70px;
+    margin-left: 335px;
+    margin-top: 40px;
+    width: auto;
+}
+div.block9a h3{
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-left: 435px;
+    margin-top: 7px;
+    width: auto;
+}
+div.block9a img{
+    position: absolute;
+    width: 270px;
+    margin-top: 47px;
+}
+div.block9a div{
+    position: absolute;
+    background-color: #ffffff;
+    color: #85a333;
+    width: 270px;
+    height: 274px;
+    margin-top: 47px;
+    margin-left: 270px;
+}
+div.block9a h4{
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    font-size: 37px;
+    margin-left: 50px;
+    margin-top: 55px;
+    width: auto;
+}
+div.block9a p{
+    width: 155px;
+    text-indent: 10px;
+    text-align: center;
+    color: #db7f38;
+    margin-top: 28px;
+    font-size: 15px;
+    margin-bottom: 23px;
+}
+div.block9a span{
+    margin-left: 97px;
+    font-size: 25px;
+}
+div.block9a span.price{
+    margin-left: 107px;
+}
+div.block9a img.img45{
+    margin-left: 540px;
+}
+div.block9a div.block9a_2{
+    margin-left: 810px;
+}
+div.block9a div.block9a_3{
+    margin-top: 317px;
+    margin-left: 0;
+}
+div.block9a img.img46{
+    margin-left: 270px;
+    margin-top: 317px;
+}
+div.block9a div.block9a_4{
+    margin-top: 317px;
+    margin-left: 540px;
+}
+div.block9a img.img47{
+    margin-left: 810px;
+    margin-top: 317px;
+}
+div.block9a img.img48{
+    margin-left: 0px;
+    margin-top: 591px;
+}
+div.block9a div.block9a_5{
+    margin-top: 591px;
+    margin-left: 270px;
+}
+div.block9a img.img49{
+    margin-left: 540px;
+    margin-top: 591px;
+}
+div.block9a div.block9a_6{
+    margin-top: 591px;
+    margin-left: 810px;
+}
 
 div.footer{
     background-color: #85a333;
