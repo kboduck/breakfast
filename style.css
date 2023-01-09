@@ -889,6 +889,43 @@ div.block10 button{
     margin-top: 352px;
     margin-left: 600px;
 }
+div.block11{
+    height: 300px;
+}
+div.block11 img.img55{
+    position: absolute;
+    width: 131px;
+    margin-left: 57px;
+    margin-top: 75px;
+}
+div.block11 img.img56{
+    position: absolute;
+    width: 127px;
+    margin-left: 1245px;
+    margin-top: 85px;
+}
+div.block11 h2{
+    font-size: 50px;
+    color: #db7f38;
+    margin-left: 705px;
+    margin-top: 50px;
+    width: auto;
+}
+div.block11 p{
+    font-size: 23px;
+    color: #db7f38;
+    width: 675px;
+    text-align: center;
+    margin-left: 390px;
+    text-indent: -25px;
+}
+div.block11 h3{
+    font-family: 'Amatic SC', cursive;
+    font-size: 26px;
+    color: #85a333;
+    margin-left: 665px;
+    margin-top: 37px;
+}
 
 div.footer{
     background-color: #85a333;
