@@ -815,6 +815,7 @@ div.block10 span{
     position: absolute;
     color: #ffffff;
     font-size: 20px;
+    width: auto;
 }
 div.block10 span.label1{
     position: absolute;
@@ -823,7 +824,7 @@ div.block10 span.label1{
 }
 div.block10 input{
     position: absolute;
-    width: 240px;
+    width: 234px;
     color: #ffffff;
     border: solid 1px;
     border-color: #ffffff;
@@ -841,6 +842,52 @@ div.block10 span.label2{
 div.block10 input.name{
     margin-left: 100px;
     margin-top: 265px;
+}
+div.block10 span.label3{
+    margin-top: 135px;
+    margin-left: 600px;
+}
+div.block10 input.date{
+    margin-left: 600px;
+    margin-top: 165px;
+}
+::-webkit-calendar-picker-indicator {
+    filter: invert(1);
+}
+div.block10 span.label4{
+    margin-top: 235px;
+    margin-left: 600px;
+}
+div.block10 input.email{
+    margin-left: 600px;
+    margin-top: 265px;
+}
+div.block10 span.label5{
+    margin-top: 135px;
+    margin-left: 1025px;
+}
+div.block10 input.time{
+    margin-left: 1025px;
+    margin-top: 165px;
+}
+div.block10 span.label6{
+    margin-top: 235px;
+    margin-left: 1025px;
+}
+div.block10 input.phone{
+    margin-left: 1025px;
+    margin-top: 265px;
+}
+div.block10 button{
+    position: absolute;
+    width: 240px;
+    color: #ffffff;
+    border: solid 1px;
+    border-color: #ffffff;
+    background-color: #85a333;
+    border-radius: 5px;
+    margin-top: 352px;
+    margin-left: 600px;
 }
 
 div.footer{
