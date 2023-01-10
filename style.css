@@ -5,17 +5,17 @@
     font-family: 'Lato', sans-serif;
 }
 div.header{
-    text-align: right;
     background-color: transparent;
     position: fixed;
-    padding-top: 65px;
+    padding-top: 59px;
+    padding-left: 816px;
     z-index: 10;
 }
 div.header a{
     text-decoration: none;
     color: #e9b48b;
-    font-size: 25px;
-    padding-right: 30px;
+    font-size: 30.5px;
+    padding-right: 24px;
     text-transform: uppercase;
 }
 div.block1{
@@ -37,6 +37,7 @@ img.img3{
 }
 img.img4{
     padding-left: 1357px;
+    padding-top: 145px;
     width: 83px;
 }
 img.img5{
@@ -47,7 +48,7 @@ img.img5{
 img.logo{
     padding-left: 975px;
     padding-top: 210px;
-    width: 210px;
+    width: 262px;
 }
 img.img6{
     padding-top: 442px;
@@ -85,19 +86,19 @@ div.block1 button{
     font-size: 40px;
 }
 div.block2{
-    margin-top: 80px;
+    margin-top: 72px;
     background-image: url(images/img7.jpg);
-    height: 876px;
+    height: 875px;
 }
 div.block2 img.img8{
     position: absolute;
-    margin-top: 62px;
+    margin-top: 57px;
     margin-left: 320px;
     width: 846px;
 }
 div.block2 span{
     position: absolute;
-    margin-top: 87px;
+    margin-top: 77px;
     margin-left: 520px;
     font-family: 'Amatic SC', cursive;
     font-size: 60px;
@@ -126,24 +127,24 @@ div.block2 img.img11{
 div.block2a{
     position: absolute;
     background-color: rgba(247, 133, 47, .7);
-    margin-top: 192px;
-    margin-left: 105px;
+    margin-top: 188px;
+    margin-left: 102px;
     border: none;
-    border-radius: 20px;
-    width: 1245px;
-    height: 525px;
+    border-radius: 78px;
+    width: 1238px;
+    height: 520px;
 }
 div.block2a div{
     position: absolute;
     font-family: 'Lato', sans-serif;
     color: #ffffff;
-    margin-left: 240px; 
+    margin-left: 230px; 
     margin-top: 192px; 
     font-size: 40px;
     width: auto; 
 }
 div.block2a div h2{
-    font-size: 80px;
+    font-size: 90px;
     width: auto;
 }
 div.block2a div p{
@@ -183,8 +184,8 @@ div.block2a span.line#line4{
 }
 div.block3{
     background-color: #85a333;
-    margin-top: 65px;
-    height: 825px;
+    margin-top: 64px;
+    height: 820px;
     color: #ffffff;
 }
 div.block3 img.img12{
@@ -207,7 +208,7 @@ div.block3 img.img14{
 }
 div.block3 img.img15{
     position: absolute;
-    margin-top: 705px;
+    margin-top: 700px;
     margin-left: 620px;
     width: 113px;    
 }
@@ -332,7 +333,7 @@ div.block3 div button{
 }
 div.block4{
     background-color: #ffffff;
-    height: 600px;
+    height: 597px;
 }
 div.block4 img.img21{
     position: absolute;
@@ -395,7 +396,7 @@ div.block4 p{
     width: 710px;
 }
 div.block5{
-    height: 380px;
+    height: 375px;
     background-color: #85a333;
 }
 div.block5 img.img28{
@@ -439,9 +440,9 @@ div.block5 div.block5c{
     margin-left: 965px;
 }
 div.block6{
-    height: 605px;
+    height: 603px;
     background-color: #85a333;
-    margin-top: 85px;
+    margin-top: 82px;
 }
 div.block6 h2{
     position: absolute;
@@ -637,7 +638,7 @@ div.block8 img.img40{
     margin-left: 680px;
 }
 div.block9{
-    height: 1155px;
+    height: 1150px;
     background-color: #ffffff;
 }
 div.block9 img{
@@ -767,7 +768,7 @@ div.block9a div.block9a_6{
 div.block10{
     background-color: #85a333;
     color: #ffffff;
-    height: 450px;
+    height: 453px;
 }
 div.block10 img{
     position: absolute;
@@ -890,19 +891,19 @@ div.block10 button{
     margin-left: 600px;
 }
 div.block11{
-    height: 300px;
+    height: 247px;
 }
 div.block11 img.img55{
     position: absolute;
     width: 131px;
     margin-left: 57px;
-    margin-top: 75px;
+    margin-top: 25px;
 }
 div.block11 img.img56{
     position: absolute;
     width: 127px;
     margin-left: 1245px;
-    margin-top: 85px;
+    margin-top: 35px;
 }
 div.block11 h2{
     font-size: 50px;
@@ -925,10 +926,21 @@ div.block11 h3{
     color: #85a333;
     margin-left: 665px;
     margin-top: 37px;
+    width: auto;
 }
 
 div.footer{
     background-color: #85a333;
     color: #ffffff;
     height: 325px;
+}
+div.footer div.footer_1{
+    position: absolute;
+    color: #ffffff;
+    margin-left: 180px;
+    margin-top: 70px;
+}
+div.footer div.footer_1 h2{
+    font-family: 'Amatic SC', cursive;
+    font-size: 26px;
 }
