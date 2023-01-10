@@ -10,12 +10,13 @@ div.header{
     padding-top: 59px;
     padding-left: 816px;
     z-index: 10;
+    width: 624px;
 }
 div.header a{
     text-decoration: none;
     color: #e9b48b;
     font-size: 30.5px;
-    padding-right: 24px;
+    padding-left: 24px;
     text-transform: uppercase;
 }
 div.block1{
@@ -934,13 +935,75 @@ div.footer{
     color: #ffffff;
     height: 325px;
 }
+div.footer img{
+    position: absolute;
+}
+div.footer img.img57{
+    margin-top: 65px;
+    width: 101px;
+    transform: rotate(5deg);
+
+}
+div.footer img.img58{
+    margin-top: 203px;
+    margin-left: 542px;
+    width: 142px;
+}
+div.footer span{
+    position: absolute;
+    font-family: 'Amatic SC', cursive;
+    font-size: 26px;
+    margin-left: 180px;
+    width: auto;
+}
 div.footer div.footer_1{
     position: absolute;
     color: #ffffff;
     margin-left: 180px;
-    margin-top: 70px;
+    margin-top: 60px;
+    width: 328px;
 }
-div.footer div.footer_1 h2{
+div.footer div h2{
     font-family: 'Amatic SC', cursive;
-    font-size: 26px;
+    font-size: 32px;
+    width: auto;
+}
+div.footer div ul{
+    list-style-type: none;
+    padding-top: 33px;
+    margin-left: -45px;
+}
+div.footer div a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 20px;
+    padding-top: 10px;
+    width: auto;
+}
+div.footer ul{
+    width: auto;
+}
+div.footer div.footer_1 p{
+    padding-top: 30px;
+    font-size: 20px;
+    width: 328px;
+    line-height: 140%;
+}
+div.footer div.footer_2{
+    position: absolute;
+    margin-left: 730px;
+    margin-top: 60px;
+    width: 200px;
+}
+div.footer div.footer_3{
+    position: absolute;
+    margin-left: 980px;
+    margin-top: 60px;
+    width: 200px;
+}
+div.footer div.footer_4{
+    position: absolute;
+    margin-left: 1200px;
+    margin-top: 60px;
+    width: 200px;
 }
